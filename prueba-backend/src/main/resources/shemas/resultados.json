@@ -1,0 +1,10 @@
+{
+    "resultados": {
+        "lan_input": "-12.123",
+        "lng_input": "-21.321",
+        "datos": {
+            "campo1": "info1",
+            "campos2": "info2"
+        }
+    }
+}
